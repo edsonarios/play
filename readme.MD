@@ -1,6 +1,6 @@
 [![eDev Play](/eDevPlay.webp)](https://edev-play.vercel.app/)
 
-![](app.webp)
+![](app.png)
 
 ## [LinkedIn](https://www.linkedin.com/in/edson-a%C3%B1awaya/)
 
