@@ -1,3 +1,11 @@
-# Played
+[![eDev Play](/eDevPlay.webp)](https://edev-play.vercel.app/)
 
-Played is a desktop application to play music and video files locally and from our PC, it can also import YouTube and Spotify playlists in one place
+![](app.webp)
+
+## [LinkedIn](https://www.linkedin.com/in/edson-a%C3%B1awaya/)
+
+## Download the latest release [here](https://github.com/edsonarios/play/releases)
+
+## Acknowledgements
+
+"eDev - Play" icon designed by Fabiola Torrez
